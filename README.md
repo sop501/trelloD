@@ -1,3 +1,5 @@
+#TrelloD: A demo task management portal
+
 This demo application was developed using cakephp. You may read more (cakephp.org) about the necessary server requirements
 
 *Description*
@@ -6,6 +8,9 @@ A task can be created, edited, deleted and assigned to a team member. A board is
 
 *Database*
 The structure of the database for this abpplication is available in the file "trellod.sql", just run the sql queries and you are good to go.
+
+*complete version*
+The complete app can also be downloaded by simply downloading the zip file: "trelloD.zip", in this repository.
 
 
 *How to Use*
